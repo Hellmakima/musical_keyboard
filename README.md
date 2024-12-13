@@ -11,7 +11,7 @@ This is a Python-based musical keyboard simulator that plays random sounds mappe
 - **Stop Mechanism**: Pressing the `ESC` key exits the program.
 
 ## Requirements
-- Python 3.6+
+- Python 3.6+ (GPT says so, I ran it on 3.13)
 - Required libraries:
   - `pygame`
   - `pynput`
@@ -31,12 +31,7 @@ pip install pygame pynput
 4. Press `ESC` to exit.
 
 ### Important Note
-The MP3 files were scraped from [Online Pianist](https://assets.onlinepianist.com), and a lot of this project was developed using ChatGPT. Adjust (delete/add) files based on your preferences. The current selection is rough and may not suit everyone’s taste.
-
-CMD used for scraping:
-```bash
-curl --compressed -o 65.mp3 https://assets.onlinepianist.com/player/sounds/65.mp3
-```
+The MP3 files were scraped from [Online Pianist](https://www.onlinepianist.com/virtual-piano), and a lot of this project was developed using ChatGPT. Adjust (delete/add) files based on your preferences. The current selection is rough and may not suit everyone’s taste.
 
 ## File Structure
 ```
