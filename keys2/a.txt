@@ -1,0 +1,3 @@
+illegally scraped from 'https://assets.onlinepianist.com' and a lot of chatgpt. Honestly, felt like a hacker.
+
+CMD: `curl --compressed -o 65.mp3 https://assets.onlinepianist.com/player/sounds/65.mp3`
